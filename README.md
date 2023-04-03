@@ -1,2 +1,2 @@
 # project-test3
-my 3 projects
+my 3 project
